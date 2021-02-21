@@ -9,6 +9,11 @@
 
 # Pandas 
 
+<img src="https://user-images.githubusercontent.com/48679574/108627986-9f855380-749b-11eb-8b9a-817a9d86a79c.png">
+
+<img src="https://user-images.githubusercontent.com/48679574/108627995-a7dd8e80-749b-11eb-9527-0d47fb05c47e.png">
+
+<img src="https://user-images.githubusercontent.com/48679574/108628000-af049c80-749b-11eb-8d82-d0a883f1823b.png">
 
 # DNN
 
