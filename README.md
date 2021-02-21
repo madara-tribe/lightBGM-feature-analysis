@@ -17,4 +17,9 @@
 
 # DNN
 
+<img src="https://user-images.githubusercontent.com/48679574/108628064-03a81780-749c-11eb-8581-55eccbf78769.png" width="400px"><img src="https://user-images.githubusercontent.com/48679574/108628071-0a368f00-749c-11eb-9106-55b1a96e880f.png" width="400px">
 
+
+# sample dataset
+
+Use various datasets for sample analysis
