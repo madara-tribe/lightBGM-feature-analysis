@@ -1,7 +1,7 @@
 # Analysis by original similar 10 class iris dataset (For exsample)
 
 
-# lightBGM<hr>
+# lightBGM(importance features hist, create tree digraph, L1 and L2 loss curve)<hr>
 
 ## importance_features
 
