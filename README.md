@@ -5,7 +5,8 @@
 
 ## importance_features
 
-<img src="https://user-images.githubusercontent.com/48679574/108627938-592ff480-749b-11eb-80a5-c8f3962ca533.png" width="400px">
+<img src="https://user-images.githubusercontent.com/48679574/108627938-592ff480-749b-11eb-80a5-c8f3962ca533.png" width="400px"><img src="https://user-images.githubusercontent.com/48679574/108628366-d9575980-749d-11eb-8447-b62d026f3568.png" width="400px"><img src="https://user-images.githubusercontent.com/48679574/108628370-dceae080-749d-11eb-9d5b-aef92bc701b0.png" width="400px">
+
 
 # Pandas<hr>
 
