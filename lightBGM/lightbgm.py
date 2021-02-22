@@ -32,7 +32,7 @@ def create_dataset(df):
     print(X.shape, y.shape, X.min(), X.max())
     return X, y
 
-def lightbgm_analysis(jupyter_is):
+def lightbgm_analysis(jupyter):
     NUM_CLS=10+1
     tname='target'
     df = pd_load(path=DATA_FILE)
